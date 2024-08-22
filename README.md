@@ -5,5 +5,3 @@
 - 👯 I’m looking to collaborate on ai centered projects
 - 💬 Ask me about fullstack development and AI
 - 📫 How to reach me: jemsofttechnologies@gmail.com
-
-- Personal github account: https://github.com/jemsofttechnologies
