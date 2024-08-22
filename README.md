@@ -8,4 +8,4 @@
 
 - Personal github account: https://github.com/jemsofttechnologies
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=bundijames&show_icons=true&theme=radical)
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemsofttechnologies&show_icons=true&theme=radical)
