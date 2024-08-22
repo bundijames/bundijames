@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋, I'm James!
 
 - 🔭 I’m currently working on ai-powered meetings platform
 - 🌱 I’m currently learning Golang
@@ -7,3 +7,5 @@
 - 📫 How to reach me: jemsofttechnologies@gmail.com
 
 - Personal github account: https://github.com/jemsofttechnologies
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=bundijames&show_icons=true&theme=radical)
