@@ -7,5 +7,3 @@
 - 📫 How to reach me: jemsofttechnologies@gmail.com
 
 - Personal github account: https://github.com/jemsofttechnologies
-
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jemsofttechnologies&show_icons=true&theme=radical)
